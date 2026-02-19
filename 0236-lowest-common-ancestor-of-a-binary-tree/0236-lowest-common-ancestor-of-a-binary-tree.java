@@ -10,28 +10,19 @@
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         if(root == null){
+            return null;
+        }
+        if(root==p || root==q){
             return root;
         }
-        if((root.val==p.val) || (root.val==q.val)){
+        TreeNode leftAnswer = lowestCommonAncestor(root.left,p,q);
+        TreeNode rightAnswer = lowestCommonAncestor(root.right,p,q);
+        if(leftAnswer!=null && rightAnswer!=null){
             return root;
         }
-        boolean pInLeft = exists(root.left,p);
-        boolean qInRight = exists(root.right,q);
-        if((!pInLeft) && (qInRight)){
-            return lowestCommonAncestor(root.right,p,q);
+        if(leftAnswer != null){
+            return leftAnswer;
         }
-        if((pInLeft) && !(qInRight)){
-            return lowestCommonAncestor(root.left,p,q);
-        }
-        return root;
-    }
-    public boolean exists(TreeNode root, TreeNode x){
-        if(root == null){
-            return false;
-        }
-        if(root.val == x.val){
-            return true;
-        }
-        return (exists(root.left,x) || exists(root.right,x));
+        return rightAnswer;
     }
 }
