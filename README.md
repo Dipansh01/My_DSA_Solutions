@@ -14,6 +14,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
@@ -24,6 +25,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -32,6 +34,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0404-sum-of-left-leaves](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -44,6 +47,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Linked List
