@@ -26,6 +26,7 @@ class Solution {
         str += root.val;
         if(root.left==null && root.right==null){
             sum += Integer.parseInt(str,2);
+            return;
         }
         dfs(root.left,str);
         dfs(root.right,str);
