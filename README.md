@@ -25,6 +25,7 @@
 | [0938-range-sum-of-bst](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 | [0938-range-sum-of-bst](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -97,6 +100,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0042-trapping-rain-water) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -128,4 +132,5 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
