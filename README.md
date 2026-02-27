@@ -20,6 +20,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0938-range-sum-of-bst) |
@@ -39,6 +40,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -50,6 +52,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -68,6 +71,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0938-range-sum-of-bst) |
