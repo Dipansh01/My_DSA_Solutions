@@ -117,6 +117,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0151-reverse-words-in-a-string](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
 |  |
 | ------- |
