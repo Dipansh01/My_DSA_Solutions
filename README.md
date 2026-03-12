@@ -176,6 +176,7 @@
 | [0443-string-compression](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0443-string-compression) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2716-minimize-string-length](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2716-minimize-string-length) |
+| [3163-string-compression-iii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3163-string-compression-iii) |
 ## Sorting
 |  |
 | ------- |
