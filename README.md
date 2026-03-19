@@ -45,6 +45,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0617-merge-two-binary-trees) |
@@ -104,6 +105,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0148-sort-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2326-spiral-matrix-iv) |
@@ -226,4 +228,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
