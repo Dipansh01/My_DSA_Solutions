@@ -121,6 +121,7 @@
 | [0143-reorder-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -159,6 +160,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Backtracking
@@ -243,4 +245,12 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
