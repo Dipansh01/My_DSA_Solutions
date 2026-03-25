@@ -117,6 +117,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0445-add-two-numbers-ii) |
@@ -134,6 +135,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -163,6 +165,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0901-online-stock-span) |
