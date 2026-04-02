@@ -128,6 +128,7 @@
 | [0901-online-stock-span](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -177,6 +178,7 @@
 | [0739-daily-temperatures](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Backtracking
@@ -224,6 +226,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0443-string-compression](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0443-string-compression) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2716-minimize-string-length](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2716-minimize-string-length) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3163-string-compression-iii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3163-string-compression-iii) |
@@ -278,4 +281,5 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
