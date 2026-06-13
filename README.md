@@ -153,6 +153,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2326-spiral-matrix-iv](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2326-spiral-matrix-iv) |
+| [3838-weighted-word-mapping](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
 | ------- |
@@ -235,6 +236,7 @@
 | [2716-minimize-string-length](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2716-minimize-string-length) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3163-string-compression-iii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3163-string-compression-iii) |
+| [3838-weighted-word-mapping](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3838-weighted-word-mapping) |
 ## Sorting
 |  |
 | ------- |
@@ -255,6 +257,7 @@
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2326-spiral-matrix-iv](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2326-spiral-matrix-iv) |
+| [3838-weighted-word-mapping](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3838-weighted-word-mapping) |
 ## Merge Sort
 |  |
 | ------- |
