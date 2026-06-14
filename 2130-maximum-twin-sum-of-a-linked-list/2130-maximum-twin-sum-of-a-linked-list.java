@@ -22,7 +22,7 @@ class Solution {
     public int pairSum(ListNode head) {
         ListNode slow = head;
         ListNode fast = head;
-        while(fast.next!=null && fast.next.next!=null){
+        while(fast.next != null && fast.next.next != null){
             slow = slow.next;
             fast = fast.next.next;
         }
@@ -31,8 +31,7 @@ class Solution {
         slow = head;
         int maxSum = 0;
         while(fast != null){
-            int tempSum = slow.val + fast.val;
-            maxSum = Math.max(maxSum,tempSum);
+            maxSum = Math.max(maxSum,slow.val+fast.val);
             slow = slow.next;
             fast = fast.next;
         }
