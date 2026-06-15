@@ -111,6 +111,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -166,6 +167,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0443-string-compression) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
 |  |
