@@ -203,6 +203,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0202-happy-number) |
+| [1189-maximum-number-of-balloons](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2716-minimize-string-length](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2716-minimize-string-length) |
 | [3731-find-missing-elements](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -238,6 +239,7 @@
 | [0796-rotate-string](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2716-minimize-string-length](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2716-minimize-string-length) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3163-string-compression-iii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3163-string-compression-iii) |
@@ -307,4 +309,8 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1732-find-the-highest-altitude) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
