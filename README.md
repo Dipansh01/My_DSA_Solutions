@@ -149,6 +149,7 @@
 | [0198-house-robber](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0198-house-robber) |
 | [0503-next-greater-element-ii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -265,12 +266,14 @@
 | [0148-sort-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3731-find-missing-elements](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0202-happy-number) |
 | [0445-add-two-numbers-ii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Matrix
