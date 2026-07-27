@@ -154,6 +154,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -267,6 +268,7 @@
 | [0242-valid-anagram](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -301,6 +303,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Doubly-Linked List
 |  |
 | ------- |
