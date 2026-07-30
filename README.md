@@ -141,6 +141,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -181,6 +182,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0198-house-robber) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Monotonic Stack
@@ -323,6 +325,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## String Matching
