@@ -135,6 +135,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
@@ -262,6 +263,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [2390-removing-stars-from-a-string](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2716-minimize-string-length](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2716-minimize-string-length) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -299,6 +301,7 @@
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2326-spiral-matrix-iv](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2326-spiral-matrix-iv) |
+| [2390-removing-stars-from-a-string](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3838-weighted-word-mapping) |
 ## Merge Sort
