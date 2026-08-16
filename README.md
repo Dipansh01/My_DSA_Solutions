@@ -143,6 +143,7 @@
 | [0015-3sum](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0075-sort-colors) |
@@ -207,6 +208,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0113-path-sum-ii) |
 ## Hash Table
 |  |
