@@ -18,20 +18,24 @@ class Solution {
         if(root == null){
             return;
         }
-        TreeNode leftSubTree = root.left;
-        TreeNode rightSubTree = root.right;
-        flatten(leftSubTree);
-        flatten(rightSubTree);
-        if(leftSubTree != null){
-            root.right = leftSubTree;
+        ArrayList<TreeNode> arr = new ArrayList<>();
+        dfs(root,arr);
+        for(int i=0;i<arr.size()-1;i++){
+            TreeNode a = arr.get(i);
+            TreeNode b = arr.get(i+1);
+            a.right = b;
+            a.left = null;
         }
-        root.left = null;
-        TreeNode temp = leftSubTree;
-        if(leftSubTree != null){
-            while(temp.right != null){
-                temp = temp.right;
-            }
-            temp.right = rightSubTree;
+        TreeNode last = arr.get(arr.size()-1);
+        last.left = null;
+        last.right = null;
+    }
+    public void dfs(TreeNode root, ArrayList<TreeNode> arr){
+        if(root == null){
+            return;
         }
+        arr.add(root);
+        dfs(root.left,arr);
+        dfs(root.right,arr);
     }
 }
