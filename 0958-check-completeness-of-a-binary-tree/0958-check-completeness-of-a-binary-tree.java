@@ -15,20 +15,20 @@
  */
 class Solution {
     public boolean isCompleteTree(TreeNode root) {
+        boolean flag = false;
         Queue<TreeNode> q = new LinkedList<>();
-        boolean f = false;
         q.add(root);
         while(!q.isEmpty()){
-            TreeNode rv = q.poll();
-            if(rv == null){
-                f = true;
+            TreeNode front = q.remove();
+            if(front == null){
+                flag = true;
             }
             else{
-                if(f) {
+                if(flag){
                     return false;
                 }
-                q.add(rv.left);
-                q.add(rv.right);
+                q.add(front.left);
+                q.add(front.right);
             }
         }
         return true;
