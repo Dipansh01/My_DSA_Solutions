@@ -14,16 +14,17 @@
  * }
  */
 class Solution {
+    static int res;
     public int pathSum(TreeNode root, int targetSum) {
+        res = 0;
         if(root == null){
-            return 0;
+            return res;
         }
-        int res = 0;
         Stack<TreeNode> st = new Stack<>();
         st.push(root);
         while(!st.isEmpty()){
             TreeNode temp = st.pop();
-            res += dfs(temp, targetSum);
+            dfs(temp, targetSum);
             if(temp.left != null){
                 st.push(temp.left);
             }
@@ -33,16 +34,14 @@ class Solution {
         }
         return res;
     }
-    public int dfs(TreeNode root, long targetSum){
+    public static void dfs(TreeNode root, long targetSum){
         if(root == null){
-            return 0;
+            return;
         }
-        int count = 0;
         if(root.val == targetSum){
-            count++;
+            res++;
         }
-        count += dfs(root.left, targetSum-root.val);
-        count += dfs(root.right, targetSum-root.val);
-        return count;
+        dfs(root.left, targetSum-root.val);
+        dfs(root.right, targetSum-root.val);
     }
 }
