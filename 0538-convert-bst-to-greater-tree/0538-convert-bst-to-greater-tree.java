@@ -25,8 +25,7 @@ class Solution {
             return;
         }
         helper(root.right);
-        int temp = root.val;
-        sum += temp;
+        sum += root.val;
         root.val = sum;
         helper(root.left);
     }
