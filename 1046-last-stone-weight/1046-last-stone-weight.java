@@ -7,7 +7,7 @@ class Solution {
         while(pq.size() > 1){
             int y = pq.remove();
             int x = pq.remove();
-            if(y-x != 0){
+            if(y != x){
                 pq.add(y-x);
             }
         }
