@@ -164,6 +164,7 @@
 | [0739-daily-temperatures](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0875-koko-eating-bananas) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1046-last-stone-weight](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1046-last-stone-weight) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -336,6 +337,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1046-last-stone-weight](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Doubly-Linked List
 |  |
