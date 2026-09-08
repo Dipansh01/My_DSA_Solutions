@@ -16,13 +16,7 @@ class Solution {
             }
             else{
                 Pair top = pq.peek();
-                if(top.dis == Math.abs(x-num)){
-                    if(top.val > num){
-                        pq.remove();
-                        pq.add(new Pair(Math.abs(x-num),num));
-                    }
-                }
-                else if(top.dis > Math.abs(x-num)){
+                if( (top.dis == Math.abs(x-num) && top.val > num) || (top.dis > Math.abs(x-num)) ){
                     pq.remove();
                     pq.add(new Pair(Math.abs(x-num),num));
                 }
