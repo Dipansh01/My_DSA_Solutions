@@ -4,8 +4,8 @@ class Solution {
         boolean[] vis = new boolean[n];
         vis[0] = true;
         bfs(rooms, vis, 0);
-        for(int i=0;i<n;i++){
-            if(vis[i] == false){
+        for(boolean room : vis){
+            if(!room){
                 return false;
             }
         }
