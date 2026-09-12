@@ -59,6 +59,7 @@
 | [0938-range-sum-of-bst](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -73,6 +74,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0841-keys-and-rooms) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -440,9 +442,11 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0841-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
