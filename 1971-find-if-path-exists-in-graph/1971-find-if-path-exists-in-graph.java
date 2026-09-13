@@ -21,6 +21,9 @@ class Solution {
         vis[st] = true;
         for(int num : adj.get(st)){
             if(!vis[num]){
+                if(st == ed){
+                    return;
+                }
                 dfs(adj, vis, num, ed);
             }
         }
