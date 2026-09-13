@@ -14,23 +14,14 @@ class Solution {
             adj.get(b).add(a);
         }
         boolean[] vis = new boolean[n];
-        bfs(adj, vis, source, destination);
+        dfs(adj, vis, source, destination);
         return vis[destination];
     }
-    public void bfs(List<List<Integer>> adj, boolean[] vis, int st, int ed){
-        Queue<Integer> q = new LinkedList<>();
-        q.add(st);
+    public void dfs(List<List<Integer>> adj, boolean[] vis, int st, int ed){ 
         vis[st] = true;
-        while(!q.isEmpty()){
-            int front = q.remove();
-            for(int ele : adj.get(front)){
-                if(!vis[ele]){
-                    q.add(ele);
-                    vis[ele] = true;
-                    if(ele == ed){
-                        return;
-                    }
-                }
+        for(int num : adj.get(st)){
+            if(!vis[num]){
+                dfs(adj, vis, num, ed);
             }
         }
     }
