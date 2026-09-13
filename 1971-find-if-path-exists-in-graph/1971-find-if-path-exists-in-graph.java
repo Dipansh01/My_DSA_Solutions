@@ -22,7 +22,7 @@ class Solution {
         for(int num : adj.get(st)){
             if(!vis[num]){
                 if(st == ed){
-                    return;
+                    break;
                 }
                 dfs(adj, vis, num, ed);
             }
