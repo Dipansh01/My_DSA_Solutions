@@ -1,27 +1,33 @@
 class Solution {
     public int findCircleNum(int[][] adj) {
         int n = adj.length;
+        ArrayList<ArrayList<Integer>> adjList = new ArrayList<>();
+        for(int i=0;i<n;i++){
+            adjList.add(new ArrayList<>());
+        }
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                if(i != j && adj[i][j] == 1){
+                    adjList.get(i).add(j);
+                    adjList.get(j).add(i);
+                }
+            }
+        }
+        boolean[] vis = new boolean[n];
         int res = 0;
-        boolean vis[] = new boolean[n];
         for(int i=0;i<n;i++){
             if(!vis[i]){
-                bfs(adj, vis, i);
+                dfs(adjList, vis, i);
                 res++;
             }
         }
         return res;
     }
-    public void bfs(int[][] adj, boolean[] vis, int i){
+    public void dfs(ArrayList<ArrayList<Integer>> adjList, boolean[] vis, int i){
         vis[i] = true;
-        Queue<Integer> q = new LinkedList<>();
-        q.add(i);
-        while(!q.isEmpty()){
-            int front = q.remove();
-            for(int j=0;j<adj.length;j++){
-                if(!vis[j] && adj[front][j] == 1){
-                    q.add(j);
-                    vis[j] = true;
-                }
+        for(int num : adjList.get(i)){
+            if(!vis[num]){
+                dfs(adjList, vis, num);
             }
         }
     }
