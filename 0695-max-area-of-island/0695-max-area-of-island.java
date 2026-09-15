@@ -1,47 +1,27 @@
 class Solution {
-    int maxArea = 0;
     public int maxAreaOfIsland(int[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
-        boolean[][] vis = new boolean[m][n];
+        int maxArea = 0;
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                if(grid[i][j] == 1 && !vis[i][j]){
-                    bfs(grid, vis, i, j);
+                if(grid[i][j] == 1){
+                    maxArea = Math.max(maxArea, dfs(grid, i, j));
                 }
             }
         }
         return maxArea;
     }
-    public void bfs(int[][] grid, boolean[][] vis, int i, int j){
-        int m = grid.length;
-        int n = grid[0].length;
-        Queue<int[]> q = new LinkedList<>();
-        q.add(new int[]{i, j});
-        vis[i][j] = true;
-        int size = 0;
-        while(!q.isEmpty()){
-            int[] front = q.remove();
-            int a = front[0];
-            int b = front[1];
-            size++;
-            if(a-1 >= 0 && grid[a-1][b] != 0 && !vis[a-1][b]){
-                q.add(new int[]{a-1, b});
-                vis[a-1][b] = true;
-            }
-            if(a+1 < m && grid[a+1][b] != 0 && !vis[a+1][b]){
-                q.add(new int[]{a+1, b});
-                vis[a+1][b] = true;
-            }
-            if(b-1 >= 0 && grid[a][b-1] != 0 && !vis[a][b-1]){
-                q.add(new int[]{a, b-1});
-                vis[a][b-1] = true;
-            }
-            if(b+1 < n && grid[a][b+1] != 0 && !vis[a][b+1]){
-                q.add(new int[]{a, b+1});
-                vis[a][b+1] = true;
-            }
+    public int dfs(int[][] grid, int i, int j){
+        if(i < 0 || i >= grid.length || j < 0 || j >= grid[0].length || grid[i][j] == 0){
+            return 0;
         }
-        maxArea = Math.max(maxArea, size);
+        grid[i][j] = 0;
+        int area = 1;
+        area += dfs(grid, i-1, j);
+        area += dfs(grid, i+1, j);
+        area += dfs(grid, i, j-1);
+        area += dfs(grid, i, j+1);
+        return area;
     }
 }
