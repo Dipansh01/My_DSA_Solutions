@@ -5,6 +5,9 @@ class Solution {
         int n = graph.length;
         int[] vis = new int[n];
         for(int i=0;i<n;i++){
+            if(res == false){
+                return res;
+            }
             if(vis[i] == 0){
                 bfs(graph, vis, i);
             }
