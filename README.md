@@ -74,6 +74,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0542-01-matrix](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -182,6 +183,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0503-next-greater-element-ii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0542-01-matrix](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0695-max-area-of-island) |
@@ -226,6 +228,7 @@
 | [0042-trapping-rain-water](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0198-house-robber) |
+| [0542-01-matrix](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0542-01-matrix) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Monotonic Stack
 |  |
@@ -352,6 +355,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0994-rotting-oranges) |
