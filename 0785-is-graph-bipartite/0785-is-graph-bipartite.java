@@ -9,25 +9,23 @@ class Solution {
                 return res;
             }
             if(vis[i] == 0){
-                bfs(graph, vis, i);
+                vis[i] = 1;
+                dfs(graph, vis, i);
             }
         }
         return res;
     }
-    public static void bfs(int[][] graph, int[] vis, int i){
-        Queue<Integer> q = new LinkedList<>();
-        q.add(i);
-        vis[i] = 1;
-        while(!q.isEmpty()){
-            int front = q.remove();
-            for(int ele : graph[front]){
-                if(vis[ele] == vis[front]){
-                    res = false;
+    public static void dfs(int[][] graph, int[] vis, int i){
+        for(int ele : graph[i]){
+            if(vis[ele] == vis[i]){
+                res = false;
+                return;
+            }
+            if(vis[ele] == 0){
+                vis[ele] = (vis[i] == 1) ? 2 : 1;
+                dfs(graph, vis, ele);
+                if(!res){
                     return;
-                }
-                if(vis[ele] == 0){
-                    q.add(ele);
-                    vis[ele] = (vis[front] == 1) ? 2 : 1;
                 }
             }
         }
