@@ -184,6 +184,7 @@
 | [0198-house-robber](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0503-next-greater-element-ii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0503-next-greater-element-ii) |
@@ -427,6 +428,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1732-find-the-highest-altitude) |
 ## Counting
 |  |
