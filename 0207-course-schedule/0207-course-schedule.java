@@ -4,16 +4,12 @@ class Solution {
         for(int i=0;i<numCourses;i++){
             adjList.add(new ArrayList<>());
         }
+        int[] inDegree = new int[numCourses];
         for(int i=0;i<prerequisites.length;i++){
             int a = prerequisites[i][0];
             int b = prerequisites[i][1];
-            adjList.get(a).add(b);
-        }
-        int[] inDegree = new int[numCourses];
-        for(int i=0;i<numCourses;i++){
-            for(int num : adjList.get(i)){
-                inDegree[num]++;
-            }
+            adjList.get(b).add(a);
+            inDegree[a]++;
         }
         Queue<Integer> q = new LinkedList<>();
         for(int i=0;i<numCourses;i++){
