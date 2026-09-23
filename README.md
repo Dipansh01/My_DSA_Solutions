@@ -218,6 +218,7 @@
 | [1381-design-a-stack-with-increment-operation](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1514-path-with-maximum-probability](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1732-find-the-highest-altitude](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -420,6 +421,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1514-path-with-maximum-probability](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1514-path-with-maximum-probability) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -513,6 +515,7 @@
 | [0785-is-graph-bipartite](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0841-keys-and-rooms) |
+| [1514-path-with-maximum-probability](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Coloring
 |  |
@@ -548,8 +551,10 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
