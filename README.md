@@ -61,6 +61,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0841-keys-and-rooms) |
@@ -91,6 +92,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0841-keys-and-rooms) |
@@ -414,6 +416,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0658-find-k-closest-elements) |
+| [0743-network-delay-time](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -506,6 +509,7 @@
 | [0207-course-schedule](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0841-keys-and-rooms) |
@@ -540,4 +544,12 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0127-word-ladder) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
