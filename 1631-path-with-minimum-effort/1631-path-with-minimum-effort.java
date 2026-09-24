@@ -17,6 +17,12 @@ class Solution {
             int i = top[0];
             int j = top[1];
             int eff = top[2];
+            if(eff > efforts[i][j]){
+                continue;
+            }
+            if(i == m-1 && j == n-1){
+                return eff;
+            }
             for(int[] dir : direction){
                 int row = i + dir[0];
                 int col = j + dir[1];
