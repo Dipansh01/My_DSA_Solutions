@@ -227,6 +227,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2326-spiral-matrix-iv](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2506-count-pairs-of-similar-strings) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
@@ -377,6 +378,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Matrix
