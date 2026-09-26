@@ -1,28 +1,38 @@
 class Solution {
     public int findCheapestPrice(int n, int[][] flights, int src, int dst, int k) {
-        List<List<int[]>> adj = new ArrayList<>();
-        for (int i = 0; i < n; i++) adj.add(new ArrayList<>());
-        for (int[] flight : flights) {
-            adj.get(flight[0]).add(new int[] {flight[1], flight[2]});
+        ArrayList<ArrayList<int[]>> adjList = new ArrayList<>();
+        for(int i=0;i<n;i++){
+            adjList.add(new ArrayList<>());
         }
-        Queue<int[]> q = new LinkedList<>();
-        q.offer(new int[] {src, 0});
+        for(int i=0;i<flights.length;i++){
+            adjList.get(flights[i][0]).add(new int[]{flights[i][1], flights[i][2]});
+        }
         int[] minCost = new int[n];
-        Arrays.fill(minCost, Integer.MAX_VALUE);
-        int stops = 0;
-        while (!q.isEmpty() && stops <= k) {
-            int size = q.size();
-            while (size-- > 0) {
-                int[] curr = q.poll();
-                for (int[] neighbour : adj.get(curr[0])) {
-                    int price = neighbour[1], neighbourNode = neighbour[0];
-                    if (price + curr[1] >= minCost[neighbourNode]) continue;
-                    minCost[neighbourNode] = price + curr[1];
-                    q.offer(new int[] {neighbourNode, minCost[neighbourNode]});
+        for(int i=0;i<n;i++){
+            minCost[i] = Integer.MAX_VALUE;
+        }
+        minCost[src] = 0;
+        Queue<int[]> q = new LinkedList<>();
+        q.add(new int[]{src, 0, 0});
+        while(!q.isEmpty()){
+            int[] top = q.remove();
+            int node = top[0];
+            int cost = top[1];
+            int stops = top[2];
+            if(stops == k+1) {
+                continue;
+            }
+            for(int[] num : adjList.get(node)){
+                int newCost = cost + num[1];
+                if(newCost < minCost[num[0]]){
+                    minCost[num[0]] = newCost;
+                    q.add(new int[]{num[0], newCost, stops+1});
                 }
             }
-            stops++;
         }
-        return minCost[dst] == Integer.MAX_VALUE ? -1 : minCost[dst];
+        if(minCost[dst] != Integer.MAX_VALUE){
+            return minCost[dst];
+        }
+        return -1;
     }
 }
