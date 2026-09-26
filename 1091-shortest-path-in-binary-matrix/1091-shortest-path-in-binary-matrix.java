@@ -11,17 +11,17 @@ class Solution {
                 path[i][j] = Integer.MAX_VALUE;
             }
         }
-        path[0][0] = 0;
+        path[0][0] = 1;
         int[][] direction = {{-1,-1}, {-1,0}, {-1,+1}, {0,-1}, {0,+1}, {+1,-1}, {+1,0}, {+1,+1}};
         Queue<int[]> q = new LinkedList<>();
-        q.add(new int[]{0, 0, 0});
+        q.add(new int[]{0, 0, 1});
         while(!q.isEmpty()){
             int[] front = q.remove();
             int x = front[0];
             int y = front[1];
             int dis = front[2];
             if(x == m-1 && y == n-1){
-                return dis + 1;
+                return dis;
             }
             if(dis > path[x][y]){
                 continue;
