@@ -102,6 +102,7 @@
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -219,6 +220,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1046-last-stone-weight) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -397,6 +399,7 @@
 | [0733-flood-fill](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2326-spiral-matrix-iv](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2326-spiral-matrix-iv) |
 ## Simulation
