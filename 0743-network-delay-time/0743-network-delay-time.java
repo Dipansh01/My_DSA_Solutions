@@ -1,49 +1,27 @@
-class Pair {
-    int node;
-    int time;
-    Pair(int node, int time){
-        this.node = node;
-        this.time = time;
-    }
-}
 class Solution {
-    public int networkDelayTime(int[][] times, int n, int k) {
-        ArrayList<ArrayList<Pair>> adjList = new ArrayList<>();
+    public int networkDelayTime(int[][] times, int n, int src) {
         int[] timeTaken = new int[n+1];
         for(int i=0;i<=n;i++){
-            adjList.add(new ArrayList<>());
             timeTaken[i] = Integer.MAX_VALUE;
         }
-        timeTaken[k] = 0;
-        for(int[] time : times){
-            int u = time[0];
-            int v = time[1];
-            int t = time[2];
-            adjList.get(u).add(new Pair(v, t));
-        }
-        PriorityQueue<Pair> pq = new PriorityQueue<>((a,b) -> Integer.compare(a.time, b.time));
-        pq.add(new Pair(k, 0));
-        while(!pq.isEmpty()){
-            Pair top = pq.remove();
-            int topNode = top.node;
-            int topTime = top.time;
-            if(topTime > timeTaken[topNode]){
-                continue;
-            }
-            for(Pair p : adjList.get(topNode)){
-                if(p.time + topTime < timeTaken[p.node]){
-                    timeTaken[p.node] = p.time + topTime;
-                    pq.add(new Pair(p.node, p.time + topTime));
+        timeTaken[src] = 0;
+        for(int i=0;i<n-1;i++){
+            for(int j=0;j<times.length;j++){
+                int u = times[j][0];
+                int v = times[j][1];
+                int t = times[j][2];
+                if(timeTaken[u] != Integer.MAX_VALUE && timeTaken[u] + t < timeTaken[v]){
+                    timeTaken[v] = timeTaken[u] + t;
                 }
             }
         }
-        int res = 0;
+        int maxTime = 0;
         for(int i=1;i<=n;i++){
             if(timeTaken[i] == Integer.MAX_VALUE){
                 return -1;
             }
-            res = Math.max(res, timeTaken[i]);
+            maxTime = Math.max(maxTime, timeTaken[i]);
         }
-        return res;
+        return maxTime;
     }
 }
