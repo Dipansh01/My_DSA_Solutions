@@ -225,6 +225,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1514-path-with-maximum-probability) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1732-find-the-highest-altitude](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -520,6 +521,7 @@
 | [0695-max-area-of-island](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1020-number-of-enclaves) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -534,6 +536,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0841-keys-and-rooms) |
 | [1514-path-with-maximum-probability](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1514-path-with-maximum-probability) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Graph Coloring
@@ -581,4 +584,20 @@
 | [1514-path-with-maximum-probability](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
