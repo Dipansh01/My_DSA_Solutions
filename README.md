@@ -210,6 +210,7 @@
 | [0200-number-of-islands](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0503-next-greater-element-ii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0503-next-greater-element-ii) |
@@ -253,6 +254,7 @@
 | [0148-sort-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
