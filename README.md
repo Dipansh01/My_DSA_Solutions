@@ -206,6 +206,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -253,6 +254,7 @@
 | [0143-reorder-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0295-find-median-from-data-stream) |
@@ -392,6 +394,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0202-happy-number) |
 | [0445-add-two-numbers-ii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
