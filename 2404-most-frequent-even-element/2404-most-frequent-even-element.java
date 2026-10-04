@@ -1,6 +1,6 @@
 class Solution {
     public int mostFrequentEven(int[] nums) {
-        TreeMap<Integer,Integer> map = new TreeMap<>();
+        HashMap<Integer,Integer> map = new HashMap<>();
         for(int num : nums){
             if(num % 2 == 0){
                 map.put(num, map.getOrDefault(num, 0) + 1);
@@ -14,6 +14,9 @@ class Solution {
         for(int key : map.keySet()){
             if(maxFreq < map.get(key)){
                 maxFreq = map.get(key);
+                ans = key;
+            }
+            else if(maxFreq == map.get(key) && ans > key){
                 ans = key;
             }
         }
