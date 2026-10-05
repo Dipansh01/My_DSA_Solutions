@@ -211,6 +211,7 @@
 | [0198-house-robber](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -314,6 +315,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -392,6 +394,7 @@
 | [0148-sort-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -502,6 +505,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -663,4 +667,5 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
