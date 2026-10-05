@@ -206,6 +206,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0200-number-of-islands) |
@@ -311,6 +312,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0169-majority-element](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -332,6 +334,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -387,6 +390,7 @@
 | [0015-3sum](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0295-find-median-from-data-stream) |
@@ -497,6 +501,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -654,4 +659,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0287-find-the-duplicate-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
