@@ -178,6 +178,7 @@
 | [0503-next-greater-element-ii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -379,6 +380,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0443-string-compression](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -499,6 +501,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## String Matching
 |  |
@@ -654,6 +657,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bellman–Ford Algorithm
 |  |
