@@ -236,6 +236,7 @@
 | [1020-number-of-enclaves](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
