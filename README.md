@@ -206,6 +206,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0169-majority-element) |
@@ -320,6 +321,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0202-happy-number) |
@@ -562,6 +564,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0547-number-of-provinces) |
