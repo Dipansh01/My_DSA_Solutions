@@ -193,6 +193,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0036-valid-sudoku) |
@@ -259,6 +260,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0042-trapping-rain-water) |
@@ -507,6 +509,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
