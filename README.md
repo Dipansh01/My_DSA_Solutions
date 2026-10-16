@@ -339,6 +339,7 @@
 | [0242-valid-anagram](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0383-ransom-note) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -391,6 +392,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0383-ransom-note](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0796-rotate-string) |
@@ -535,6 +537,7 @@
 | [0169-majority-element](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2404-most-frequent-even-element](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2404-most-frequent-even-element) |
