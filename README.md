@@ -273,6 +273,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2326-spiral-matrix-iv](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2404-most-frequent-even-element](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2404-most-frequent-even-element) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -375,6 +376,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2404-most-frequent-even-element](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2404-most-frequent-even-element) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2716-minimize-string-length](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2716-minimize-string-length) |
 | [3731-find-missing-elements](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3731-find-missing-elements) |
@@ -598,6 +600,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Number Theory
 |  |
 | ------- |
