@@ -258,6 +258,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1046-last-stone-weight) |
+| [1052-grumpy-bookstore-owner](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -603,6 +604,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1052-grumpy-bookstore-owner](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [2090-k-radius-subarray-averages](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Number Theory
