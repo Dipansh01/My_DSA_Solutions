@@ -7,11 +7,8 @@ class Solution {
             if(nums[i] == nums[j]){
                 if(nums[j] == 0){
                     i++;
-                    j++;
                 }
-                else{
-                    j++;
-                }
+                j++;
             }
             else{
                 res = Math.max(res, j-i);
