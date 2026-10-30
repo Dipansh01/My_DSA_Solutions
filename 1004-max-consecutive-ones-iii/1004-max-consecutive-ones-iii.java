@@ -5,22 +5,16 @@ class Solution {
         int j = 0;
         int count = 0;
         while(j < nums.length){
-            if(nums[j] == 1){
-                j++;
+            if(nums[j] == 0){
+                count++;
             }
-            else{
-                if(count < k){
-                    count++;
-                    j++;
-                }
-                else{
-                    while(nums[i] != 0){
-                        i++;
-                    }
+            while(count > k){
+                if(nums[i] == 0){
                     count--;
-                    i++;
                 }
+                i++;
             }
+            j++;
             maxLen = Math.max(maxLen, j-i);
         }
         return maxLen;
