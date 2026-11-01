@@ -253,6 +253,7 @@
 | [0845-longest-mountain-in-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0845-longest-mountain-in-array) |
 | [0875-koko-eating-bananas](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0922-sort-array-by-parity-ii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -379,6 +380,7 @@
 | [0383-ransom-note](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0904-fruit-into-baskets](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -615,6 +617,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [2090-k-radius-subarray-averages](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2090-k-radius-subarray-averages) |
