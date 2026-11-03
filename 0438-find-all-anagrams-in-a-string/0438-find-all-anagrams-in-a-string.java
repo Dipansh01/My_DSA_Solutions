@@ -2,25 +2,29 @@ class Solution {
     public List<Integer> findAnagrams(String s, String p) {
         int m = s.length();
         int n = p.length();
-        HashMap<Character, Integer> map1 = new HashMap<>();
-        HashMap<Character, Integer> map2 = new HashMap<>();
+        int[] freq = new int[26];
         List<Integer> res = new ArrayList<>();
         for(char ch : p.toCharArray()){
-            map1.put(ch, map1.getOrDefault(ch, 0)+1);
+            freq[ch - 'a']++;
         }
         int i = 0;
         int j = 0;
+        int matches = 0;
         while(j < m){
-            map2.put(s.charAt(j), map2.getOrDefault(s.charAt(j), 0)+1);
+            int idx = s.charAt(j) - 'a';
+            if(freq[idx] > 0){
+                matches++;
+            }
+            freq[idx]--;
             if(j-i+1 > n){
-                char ch = s.charAt(i);
-                map2.put(ch, map2.get(ch)-1);
-                if(map2.get(ch) == 0){
-                    map2.remove(ch);
+                int removeIdx = s.charAt(i) - 'a';
+                freq[removeIdx]++;
+                if(freq[removeIdx] > 0){
+                    matches--;
                 }
                 i++;
             }
-            if(map1.equals(map2)){
+            if(j-i+1 == n && matches == n){
                 res.add(i);
             }
             j++;
