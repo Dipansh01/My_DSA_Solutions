@@ -286,6 +286,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
@@ -502,6 +503,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Matrix
 |  |
