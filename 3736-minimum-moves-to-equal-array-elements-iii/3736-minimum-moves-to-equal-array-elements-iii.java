@@ -5,7 +5,9 @@ class Solution {
         int n = nums.length;
         for(int i=0;i<n;i++){
             sum += nums[i];
-            largest = Math.max(largest, nums[i]);
+            if(largest < nums[i]){
+                largest = nums[i];
+            }
         }
         return (largest * n) - sum;
     }
