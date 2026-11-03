@@ -312,6 +312,7 @@
 | [0392-is-subsequence](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0567-permutation-in-string](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0845-longest-mountain-in-array) |
@@ -382,6 +383,7 @@
 | [0383-ransom-note](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0567-permutation-in-string](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -445,6 +447,7 @@
 | [0392-is-subsequence](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -616,6 +619,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0713-subarray-product-less-than-k) |
