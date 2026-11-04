@@ -255,6 +255,7 @@
 | [0881-boats-to-save-people](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0922-sort-array-by-parity-ii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0994-rotting-oranges) |
@@ -389,6 +390,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -604,6 +606,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -636,6 +639,7 @@
 | [0658-find-k-closest-elements](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
