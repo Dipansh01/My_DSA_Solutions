@@ -259,6 +259,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -394,6 +395,7 @@
 | [0567-permutation-in-string](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -623,6 +625,7 @@
 | [0229-majority-element-ii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0383-ransom-note) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2404-most-frequent-even-element](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/2404-most-frequent-even-element) |
@@ -647,6 +650,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Dipansh01/My_DSA_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
